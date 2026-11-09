@@ -1,3 +1,11 @@
 website/.Rhistory
 website/.Rproj.user/
 .Rproj.user/
+# Reproducible installed dependencies (website/package-lock.json remains tracked)
+/website/node_modules/
+# Local AI-agent settings
+/.claude/settings.json
+/.claude/settings.local.json
+/.claude/*.local.json
+/.codex
+.DS_Store
