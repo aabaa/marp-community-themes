@@ -9,3 +9,6 @@ website/.Rproj.user/
 /.claude/*.local.json
 /.codex
 .DS_Store
+
+# Generated Hugo build lock
+/website/.hugo_build.lock
